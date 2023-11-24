@@ -1,7 +1,7 @@
 def main():
     # Your code here
 
-    print("flow")
+    print("steam")
 
     pass
 
