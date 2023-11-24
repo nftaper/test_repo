@@ -1,7 +1,7 @@
 def main():
     # Your code here
 
-    print("tao moon")
+    print("alt saman")
 
     pass
 
