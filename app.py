@@ -1,7 +1,7 @@
 def main():
     # Your code here
 
-    print("git")
+    print("tensor")
 
     pass
 
