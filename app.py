@@ -1,7 +1,7 @@
 def main():
     # Your code here
 
-    print("alt saman")
+    print("alt")
 
     pass
 
