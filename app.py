@@ -1,7 +1,7 @@
 def main():
     # Your code here
 
-    print("stream")
+    print("bullish on tensorplex")
 
     pass
 
