@@ -3,6 +3,7 @@ def main():
 
     print("bullish on tensorplex")
     print("bullish on tensorplex labs")
+    print("wen tensorplex rep")
 
     pass
 
